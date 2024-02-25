@@ -1,0 +1,14 @@
+C:\Users\Misho\source\repos\ListsMethods\Bombichki\bin\Debug\net8.0\Bombichki.exe
+C:\Users\Misho\source\repos\ListsMethods\Bombichki\bin\Debug\net8.0\Bombichki.deps.json
+C:\Users\Misho\source\repos\ListsMethods\Bombichki\bin\Debug\net8.0\Bombichki.runtimeconfig.json
+C:\Users\Misho\source\repos\ListsMethods\Bombichki\bin\Debug\net8.0\Bombichki.dll
+C:\Users\Misho\source\repos\ListsMethods\Bombichki\bin\Debug\net8.0\Bombichki.pdb
+C:\Users\Misho\source\repos\ListsMethods\Bombichki\obj\Debug\net8.0\Bombichki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Misho\source\repos\ListsMethods\Bombichki\obj\Debug\net8.0\Bombichki.AssemblyInfoInputs.cache
+C:\Users\Misho\source\repos\ListsMethods\Bombichki\obj\Debug\net8.0\Bombichki.AssemblyInfo.cs
+C:\Users\Misho\source\repos\ListsMethods\Bombichki\obj\Debug\net8.0\Bombichki.csproj.CoreCompileInputs.cache
+C:\Users\Misho\source\repos\ListsMethods\Bombichki\obj\Debug\net8.0\Bombichki.dll
+C:\Users\Misho\source\repos\ListsMethods\Bombichki\obj\Debug\net8.0\refint\Bombichki.dll
+C:\Users\Misho\source\repos\ListsMethods\Bombichki\obj\Debug\net8.0\Bombichki.pdb
+C:\Users\Misho\source\repos\ListsMethods\Bombichki\obj\Debug\net8.0\Bombichki.genruntimeconfig.cache
+C:\Users\Misho\source\repos\ListsMethods\Bombichki\obj\Debug\net8.0\ref\Bombichki.dll

@@ -1,0 +1,14 @@
+C:\Users\Misho\source\repos\ListsMethods\BezOtricatelni\bin\Debug\net8.0\BezOtricatelni.exe
+C:\Users\Misho\source\repos\ListsMethods\BezOtricatelni\bin\Debug\net8.0\BezOtricatelni.deps.json
+C:\Users\Misho\source\repos\ListsMethods\BezOtricatelni\bin\Debug\net8.0\BezOtricatelni.runtimeconfig.json
+C:\Users\Misho\source\repos\ListsMethods\BezOtricatelni\bin\Debug\net8.0\BezOtricatelni.dll
+C:\Users\Misho\source\repos\ListsMethods\BezOtricatelni\bin\Debug\net8.0\BezOtricatelni.pdb
+C:\Users\Misho\source\repos\ListsMethods\BezOtricatelni\obj\Debug\net8.0\BezOtricatelni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Misho\source\repos\ListsMethods\BezOtricatelni\obj\Debug\net8.0\BezOtricatelni.AssemblyInfoInputs.cache
+C:\Users\Misho\source\repos\ListsMethods\BezOtricatelni\obj\Debug\net8.0\BezOtricatelni.AssemblyInfo.cs
+C:\Users\Misho\source\repos\ListsMethods\BezOtricatelni\obj\Debug\net8.0\BezOtricatelni.csproj.CoreCompileInputs.cache
+C:\Users\Misho\source\repos\ListsMethods\BezOtricatelni\obj\Debug\net8.0\BezOtricatelni.dll
+C:\Users\Misho\source\repos\ListsMethods\BezOtricatelni\obj\Debug\net8.0\refint\BezOtricatelni.dll
+C:\Users\Misho\source\repos\ListsMethods\BezOtricatelni\obj\Debug\net8.0\BezOtricatelni.pdb
+C:\Users\Misho\source\repos\ListsMethods\BezOtricatelni\obj\Debug\net8.0\BezOtricatelni.genruntimeconfig.cache
+C:\Users\Misho\source\repos\ListsMethods\BezOtricatelni\obj\Debug\net8.0\ref\BezOtricatelni.dll

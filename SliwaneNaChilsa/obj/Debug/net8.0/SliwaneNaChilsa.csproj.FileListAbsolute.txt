@@ -1,0 +1,14 @@
+C:\Users\Misho\source\repos\ListsMethods\SliwaneNaChilsa\bin\Debug\net8.0\SliwaneNaChilsa.exe
+C:\Users\Misho\source\repos\ListsMethods\SliwaneNaChilsa\bin\Debug\net8.0\SliwaneNaChilsa.deps.json
+C:\Users\Misho\source\repos\ListsMethods\SliwaneNaChilsa\bin\Debug\net8.0\SliwaneNaChilsa.runtimeconfig.json
+C:\Users\Misho\source\repos\ListsMethods\SliwaneNaChilsa\bin\Debug\net8.0\SliwaneNaChilsa.dll
+C:\Users\Misho\source\repos\ListsMethods\SliwaneNaChilsa\bin\Debug\net8.0\SliwaneNaChilsa.pdb
+C:\Users\Misho\source\repos\ListsMethods\SliwaneNaChilsa\obj\Debug\net8.0\SliwaneNaChilsa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Misho\source\repos\ListsMethods\SliwaneNaChilsa\obj\Debug\net8.0\SliwaneNaChilsa.AssemblyInfoInputs.cache
+C:\Users\Misho\source\repos\ListsMethods\SliwaneNaChilsa\obj\Debug\net8.0\SliwaneNaChilsa.AssemblyInfo.cs
+C:\Users\Misho\source\repos\ListsMethods\SliwaneNaChilsa\obj\Debug\net8.0\SliwaneNaChilsa.csproj.CoreCompileInputs.cache
+C:\Users\Misho\source\repos\ListsMethods\SliwaneNaChilsa\obj\Debug\net8.0\SliwaneNaChilsa.dll
+C:\Users\Misho\source\repos\ListsMethods\SliwaneNaChilsa\obj\Debug\net8.0\refint\SliwaneNaChilsa.dll
+C:\Users\Misho\source\repos\ListsMethods\SliwaneNaChilsa\obj\Debug\net8.0\SliwaneNaChilsa.pdb
+C:\Users\Misho\source\repos\ListsMethods\SliwaneNaChilsa\obj\Debug\net8.0\SliwaneNaChilsa.genruntimeconfig.cache
+C:\Users\Misho\source\repos\ListsMethods\SliwaneNaChilsa\obj\Debug\net8.0\ref\SliwaneNaChilsa.dll
